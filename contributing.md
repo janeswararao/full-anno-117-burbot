@@ -202,4 +202,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Anno 117: Pax Romana · Updated 2026-11-17 · Shared under the MIT License*
+*Anno 117: Pax Romana · Updated 2026-11-18 · Shared under the MIT License*
