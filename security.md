@@ -202,6 +202,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Anno 117: Pax Romana · Updated 2026-11-21 · Shared under the MIT License*
+*Anno 117: Pax Romana · Updated 2026-11-22 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-21 -->
+<!-- last reviewed 2026-11-22 -->
